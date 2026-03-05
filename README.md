@@ -4,28 +4,43 @@ StudyFlow is a lightweight web-based productivity dashboard that helps students 
 
 The application is built using HTML, CSS, and JavaScript, and stores all data locally in the browser using LocalStorage, so it runs without any backend or database.
 
-Features:
+Features
+
 Study progress dashboard
+
 Daily study goal tracking
+
 Subject management with weekly targets
+
 Real-time study session timer
+
 Pomodoro focus timer
+
 Task management with priority levels
+
 Study session history
+
 Study streak tracking
 
-Technologies Used:
+Technologies Used
+
 HTML
+
 CSS
+
 JavaScript
+
 LocalStorage
 
-How to Run:
+How to Run
+
 Download the project files.
+
 Keep index.html, styles.css, and script.js in the same folder.
+
 Open index.html in any browser.
 
-Project Structure:
+Project Structure
 index.html
 styles.css
 script.js
